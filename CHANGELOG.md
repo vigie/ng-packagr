@@ -2,6 +2,45 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [5.3.6](https://github.com/vigie/ng-packagr/compare/v5.3.0...v5.3.6) (2019-07-12)
+
+
+### Build System
+
+* update @angular-devkit/build-angular to version ~0.801.0 ([18d7feb](https://github.com/vigie/ng-packagr/commit/18d7feb))
+* update @angular/cli to version ~8.1.0 ([f581c7f](https://github.com/vigie/ng-packagr/commit/f581c7f))
+* update @types/fs-extra to version ^8.0.0 ([705d0cc](https://github.com/vigie/ng-packagr/commit/705d0cc))
+* update husky to version ^3.0.0 ([48b7d7b](https://github.com/vigie/ng-packagr/commit/48b7d7b))
+* update tslint to version ~5.18.0 ([64af03c](https://github.com/vigie/ng-packagr/commit/64af03c))
+
+
+
+### [5.3.4](https://github.com/vigie/ng-packagr/compare/v5.3.0...v5.3.4) (2019-07-12)
+
+
+### Build System
+
+* update @angular-devkit/build-angular to version ~0.801.0 ([18d7feb](https://github.com/vigie/ng-packagr/commit/18d7feb))
+* update @angular/cli to version ~8.1.0 ([f581c7f](https://github.com/vigie/ng-packagr/commit/f581c7f))
+* update @types/fs-extra to version ^8.0.0 ([705d0cc](https://github.com/vigie/ng-packagr/commit/705d0cc))
+* update husky to version ^3.0.0 ([48b7d7b](https://github.com/vigie/ng-packagr/commit/48b7d7b))
+* update tslint to version ~5.18.0 ([64af03c](https://github.com/vigie/ng-packagr/commit/64af03c))
+
+
+
+### [5.3.2](https://github.com/vigie/ng-packagr/compare/v5.3.0...v5.3.2) (2019-07-12)
+
+
+### Build System
+
+* update @angular-devkit/build-angular to version ~0.801.0 ([18d7feb](https://github.com/vigie/ng-packagr/commit/18d7feb))
+* update @angular/cli to version ~8.1.0 ([f581c7f](https://github.com/vigie/ng-packagr/commit/f581c7f))
+* update @types/fs-extra to version ^8.0.0 ([705d0cc](https://github.com/vigie/ng-packagr/commit/705d0cc))
+* update husky to version ^3.0.0 ([48b7d7b](https://github.com/vigie/ng-packagr/commit/48b7d7b))
+* update tslint to version ~5.18.0 ([64af03c](https://github.com/vigie/ng-packagr/commit/64af03c))
+
+
+
 ### [5.3.1](https://github.com/ng-packagr/ng-packagr/compare/v5.3.0...v5.3.1) (2019-07-08)
 
 

@@ -1,6 +1,6 @@
 {
-  "name": "ng-packagr",
-  "version": "5.3.1",
+  "name": "@mcritch/ng-packagr",
+  "version": "5.3.6",
   "description": "Compile and package a TypeScript library to Angular Package Format",
   "keywords": [
     "angular",
@@ -16,7 +16,7 @@
   ],
   "author": "David Herges <david@spektrakel.de>",
   "license": "MIT",
-  "repository": "https://github.com/ng-packagr/ng-packagr.git",
+  "repository": "https://github.com/vigie/ng-packagr.git",
   "homepage": "https://github.com/ng-packagr/ng-packagr",
   "bugs": {
     "url": "https://github.com/ng-packagr/ng-packagr/issues"
