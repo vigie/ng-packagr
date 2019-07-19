@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [5.3.7](https://github.com/vigie/ng-packagr/compare/v5.3.1...v5.3.7) (2019-07-19)
+
+
+
 ### [5.3.6](https://github.com/vigie/ng-packagr/compare/v5.3.0...v5.3.6) (2019-07-12)
 
 

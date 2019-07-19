@@ -1,6 +1,6 @@
 {
   "name": "@mcritch/ng-packagr",
-  "version": "5.3.6",
+  "version": "5.3.7",
   "description": "Compile and package a TypeScript library to Angular Package Format",
   "keywords": [
     "angular",
